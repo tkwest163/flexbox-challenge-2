@@ -4,8 +4,7 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-  }
-
+}
   
   nav, 
   nav * {
@@ -48,8 +47,6 @@
     color: darkblue;
   }
   
-  /* content stylings */
-  
   main {
     width: 95%;
     height: 500px;
@@ -69,7 +66,6 @@
     width: 30%;
     padding: 15px;
     border: solid black 2px;
-    
   }
   
   p {
